@@ -2063,7 +2063,7 @@ MonoBehaviour:
   _rollingResistance: 1.2
   _frictionCoefficient: 1.2
   _lateralStiffness: 100
-  _handbrakeRollingMul: 11
+  _handbrakeRollingMul: 80
   _handbrakeRearStiffnessMul: 0.1
 --- !u!65 &1842841364
 BoxCollider:
